@@ -1,3 +1,5 @@
+FREDO AND ARRAY UPDATE:->
+
 Given an array arr[] of N elements, the task is to update all the elements of the given array to some value X such that the sum of all the updated array elements is strictly greater than the sum of all the elements of the initial array and X is the minimum possible.
 
 Examples: 
